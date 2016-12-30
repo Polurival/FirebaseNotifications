@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "751135348691",
+    "firebase_url": "https://fir-notifications-6444e.firebaseio.com",
+    "project_id": "fir-notifications-6444e",
+    "storage_bucket": "fir-notifications-6444e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751135348691:android:a89d88ef5934afe3",
+        "android_client_info": {
+          "package_name": "com.github.polurival.firebasenotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751135348691-n4kddtm0keg9mknls0iea3qpqvphi20o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.github.polurival.firebasenotifications",
+            "certificate_hash": "4810A30761AF5654A91A4A7FECA6647DA88B1E13"
+          }
+        },
+        {
+          "client_id": "751135348691-brm58vjjnont00vfeqr2n2k22p03l41a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnWCp5pIS916KeHNInJQElVsrEP10ZCRM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751135348691-brm58vjjnont00vfeqr2n2k22p03l41a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
